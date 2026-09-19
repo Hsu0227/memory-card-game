@@ -1,5 +1,7 @@
 # Memory Card Game
 
+🎮 **[Play the Game](https://hsu0227.github.io/memory-card-game/)**
+
 A memory card matching game built with React and Vite.
 
 ## Features
@@ -41,4 +43,3 @@ Then open the local URL shown in the terminal.
 - Mismatching two cards gives **-25 points**
 - Score cannot go below 0
 - Personal Best is saved separately for each theme
-- When scores are equal, fewer moves gives the better record
