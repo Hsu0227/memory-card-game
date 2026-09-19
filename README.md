@@ -1,6 +1,8 @@
 # Memory Card Game
 
-🎮 **[Play the Game](https://hsu0227.github.io/memory-card-game/)**
+<a href="https://hsu0227.github.io/memory-card-game/" target="_blank">
+  <strong>🎮 Play the Game →</strong>
+</a>
 
 A memory card matching game built with React and Vite.
 
